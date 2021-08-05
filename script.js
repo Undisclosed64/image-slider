@@ -128,7 +128,7 @@ dotsArr.forEach(function(dot){
 enableCarousel();
 
 //change image every 3 second
-const timeOut =  setInterval(nextImg, 3000);
+const timeOut =  setInterval(nextImg, 5000);
 
 //write function for disabling timeOut
 function stopInterval() {
